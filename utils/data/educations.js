@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Graduated Degree",
+    duration: "2023 - 2024",
+    institution: "CyberSoft Academy",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor Degree",
+    duration: "2017 - 2022",
+    institution: "HCMUT - Ho Chi Minh University of Technology",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
-]
+    title: "General High School Certificate",
+    duration: "2014 - 2017",
+    institution: "Nguyen Khuyen High School",
+  },
+];
